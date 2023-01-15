@@ -1,2 +1,0 @@
-# MLops
-Text classification project
